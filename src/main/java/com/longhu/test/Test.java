@@ -11,5 +11,9 @@ public class Test {
         System.out.println("sadasdasdas");
         System.out.println("zxcczczczczx");
 
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+
     }
 }
