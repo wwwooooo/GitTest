@@ -14,5 +14,9 @@ public class Test {
 
         System.out.println(0);
 
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+
     }
 }
